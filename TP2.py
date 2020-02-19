@@ -1,3 +1,4 @@
+"Je teste qqch"
 def Surprise(n):
     "pre: Un entier strictement positif n"
     "post: Un tableau A de taille n + 1 vérifiant une propriété à découvrir"
